@@ -16,7 +16,7 @@ namespace Excellent_Result
             }
             else
             {
-                Console.WriteLine("Wrong password! Success clone repository!");
+                Console.WriteLine("Wrong password! Success clone repository, ok!");
             }
             
         }

@@ -15,7 +15,8 @@ namespace Nums_1_to_10
             Console.WriteLine(7);
             Console.WriteLine(8);
             Console.WriteLine(9);
-            Console.WriteLine(10);           
+            Console.WriteLine(10);
+            Console.WriteLine("Push");
         }
     }
 }
